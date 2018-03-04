@@ -6,4 +6,5 @@
 
     <string name="androidDevelopers"><a href="https://developer.android.com/index.html">Android developers site</a></string>
     <string name="materialDesign"><a href="https://material.io/guidelines/">Google Material design guidelines</a></string>
+    <string name="thesis_name">Principi Material dizajna za mobilne uređaje</string>
 </resources>
